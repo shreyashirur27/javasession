@@ -1,0 +1,2 @@
+module javasession {
+}
